@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607675576320",
+    "project_id": "act5-flutlab",
+    "storage_bucket": "act5-flutlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607675576320:android:385a19d4131c5dcd7228e5",
+        "android_client_info": {
+          "package_name": "act5.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNiaBCWOZFRLHRZf-sc-J9Gl57UNYlNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
